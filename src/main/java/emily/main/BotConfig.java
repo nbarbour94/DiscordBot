@@ -111,7 +111,7 @@ public class BotConfig {
 
     //token used to login to discord
     @ConfigurationOption
-    public static String BOT_TOKEN = "mybottokenhere";
+    public static String BOT_TOKEN = "ODM1NzU2MTI3MjQ4NTgwNjI4.YIUEjA.GuI_NbKe_pOEOB7A-BgnaGvvzFY";
 
     //prefix for all commands !help etc.
     @ConfigurationOption
